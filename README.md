@@ -7,7 +7,7 @@
 | Suhas A| 1DA22CS165 |
 | Sujan P| 1DA22CS167 |
 | Sharan Reddy M| 1DA22CS145|
-
+| VN Manjushree| 1TU24EC180 |
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
 
