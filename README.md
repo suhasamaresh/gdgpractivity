@@ -27,5 +27,6 @@
 | Keshav V| 1DA23CS077 |
 | Likitha b poojar| 1DA22EC068|
 |  P Gururaj | 1TU24CS115 |
+| Sudarshan Pai | 1DA23IS050 |
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
