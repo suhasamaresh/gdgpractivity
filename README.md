@@ -17,6 +17,7 @@
 | Lekhana C R       | 1DA23CS089    |
 | Manushree S       | 1D23CS108     |
 | Sanika S          | 1DA24EC129    |
+| Sneha K| 1TU24IS097 |
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
