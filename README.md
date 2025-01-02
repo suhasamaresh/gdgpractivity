@@ -24,5 +24,6 @@
 | Sourya Raj| 1TU24IS100 |
 | Harshit Raj| 1TU24IS036|
 | Keshav V| 1DA23CS077 |
+| Likitha b poojar| 1DA22EC068|
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
