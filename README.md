@@ -2,6 +2,7 @@
 
 ## Participants
 
+
 | Name              | USN           |
 |-------------------|---------------|
 | Prajwal Salgar    | 1DA24EC100    |
@@ -19,6 +20,8 @@
 | Sanika S          | 1DA24EC129    |
 | Sneha K| 1TU24IS097 |
 |sujan bhatti| 1TU24CS197|
+| Gagana Shri RK| 1TU24IS030|
+
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
