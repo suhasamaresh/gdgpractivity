@@ -18,6 +18,7 @@
 | Manushree S       | 1D23CS108     |
 | Sanika S          | 1DA24EC129    |
 | Sneha K| 1TU24IS097 |
+|sujan bhatti| 1TU24CS197|
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
