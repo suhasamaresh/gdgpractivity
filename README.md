@@ -3,7 +3,7 @@
 ## Participants
 
 | Name   | USN        |
-|--Sahana poojar------|----1DA24EC125--------|
+|--Sahana pujar------|----1DA24EC125--------|
 | Suhas A| 1DA22CS165 |
 | Sujan P| 1DA22CS167 |
 | Sharan Reddy M| 1DA22CS145|
