@@ -27,11 +27,11 @@
 | Keshav V          | 1DA23CS077    |
 | Likitha B Poojar  | 1DA22EC068    |
 | P Gururaj         | 1TU24CS115    |
-| Sudarshan Pai     | 1DA23IS050    |
 | Safiya Samreen    | 1TU24CB038    |
 | Chaya             | 1TU24IS022    |
 | Sanketh K T       | 1TU24CB041    |
 | Dharmik S Shetty  | 1TU24CS055    |
+| Subham Ghosh      | 1DA23IS048    |
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
