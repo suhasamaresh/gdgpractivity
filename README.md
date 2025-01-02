@@ -32,6 +32,7 @@
 | Chaya             | 1TU24IS022    |
 | Sanketh K T       | 1TU24CB041    |
 | Dharmik S Shetty  | 1TU24CS055    |
+| Abhishek Bharadwaj| 1DA23IS001    |
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
