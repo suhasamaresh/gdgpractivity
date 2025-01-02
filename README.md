@@ -4,7 +4,7 @@
 
 | Name   | USN        |
 |--------|------------|
-| Kishan.H| 1DA23EC063 |
+| Kishan H| 1DA23EC063 |
 | Chandan B K| 1DA23EC026 |
 
 ### Instructions
