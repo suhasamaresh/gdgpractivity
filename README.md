@@ -2,7 +2,7 @@
 
 ## Participants
 
-| Name              | USN           |
+| Name              | USN           |Teja.M               1TU24IS105
 |-------------------|---------------|
 | Prajwal Salgar    | 1DA24EC100    |
 | Suhas A           | 1DA22CS165    |
