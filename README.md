@@ -2,7 +2,7 @@
 
 ## Participants
 
-| Name   | USN        |
+| Rajeshwari  | 1TU24EC112      |
 |--------|------------|
 | Suhas A| 1DA22CS165 |
 | Sujan P| 1DA22CS167 |
