@@ -4,6 +4,7 @@
 
 
 
+
 | Name              | USN           |
 |-------------------|---------------|
 | Prajwal Salgar    | 1DA24EC100    |
@@ -24,5 +25,6 @@
 | Gagana Shri RK| 1TU24IS030|
 | Hrishvith C| 1DA23IS016 |
 | Sourya Raj| 1TU24IS100 |
+| Harshit Raj| 1TU24IS036|
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
