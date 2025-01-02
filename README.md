@@ -2,6 +2,7 @@
 
 ## Participants
 
+
 | Name              | USN           |
 |---Ramya S Gouda----------------|-1DA24EC116--------------|
 | Prajwal Salgar    | 1DA24EC100    |
@@ -25,5 +26,6 @@
 | Harshit Raj| 1TU24IS036|
 | Keshav V| 1DA23CS077 |
 | Likitha b poojar| 1DA22EC068|
+|  P Gururaj | 1TU24CS115 |
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
