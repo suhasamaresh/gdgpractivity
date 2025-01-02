@@ -29,5 +29,7 @@
 |  P Gururaj | 1TU24CS115 |
 | Sudarshan Pai | 1DA23IS050 |
 |safiya samreen| 1TU24CB038|
+|chaya |1TU24IS022 |
+
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
