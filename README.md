@@ -21,7 +21,6 @@
 | Sneha K| 1TU24IS097 |
 |sujan bhatti| 1TU24CS197|
 | Gagana Shri RK| 1TU24IS030|
-
-
+| Hrishvith C| 1DA23IS016 |
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
