@@ -62,7 +62,9 @@
 | Vinith Didgi | 1TU24IS405|
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
+| Kushala K | 1TU24AI011 |
+| Kusuma K | 1TU24AI012 |
+| Sanjana C Hiremath | 1TU24AI034 
 
-### Instructions
 Please add your name and USN to the fork and submit a pull request.
 
