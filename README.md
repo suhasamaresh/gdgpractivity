@@ -37,6 +37,7 @@
 | Rajath H Kashyap   | 1DA23CS142    |
 | Fasiha B           | 1DA23EC041    |
 |Dharshan Kumar B|1DA23CS050|
+| Rohan G Figredo   | 1TU24CS156    |
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
