@@ -3,7 +3,8 @@
 ## Participants
 
 | Name              | USN           |
-|-------------------|---------------|
+|-Shreepriya Tariwal--|--1DA24EC141-
+|
 | Prajwal Salgar    | 1DA24EC100    |
 | Suhas A           | 1DA22CS165    |
 | Sujan P           | 1DA22CS167    |
