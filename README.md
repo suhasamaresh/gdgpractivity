@@ -40,6 +40,7 @@
 | Rohan G Figredo   | 1TU24CS156    |
 |V Monisha          |1DA23IS054     |
 | Dharmik S Shetty  | 1TU24CS055    |
+| Subham Ghosh      | 1DA23IS048    |
 | Vedashree V K     | 1DA23IS055    |
 | Sai keerthan S    | 1TU24ET044    |
 | Abhishek Bharadwaj| 1DA23IS001    |
