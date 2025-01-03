@@ -1,0 +1,27 @@
+name: Auto-Resolve Markdown Conflicts
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  resolve-conflicts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+      
+      - name: Auto-Resolve Conflicts
+        run: |
+          python .github/scripts/resolve_conflicts.py
+
+      - name: Commit resolved file
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add participants.md
+          git commit -m "Auto-resolved markdown conflicts"
+          git push
+        continue-on-error: true
