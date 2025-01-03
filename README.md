@@ -2,7 +2,6 @@
 
 ## Participants
 
-
 | Name               | USN           |
 |--------------------|---------------|
 | Shreepriya Tariwal | 1DA24EC141    |
@@ -54,6 +53,7 @@
 |Disha.E.G | 1DA23EC038 |
 | Harsh Singh | 1DA23AI018 |
 |Prashant Kumar|1DA24CS409 |
+| Abhishek M Shivanagoudar| 1TU24CS004|
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
