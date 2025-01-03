@@ -34,6 +34,6 @@
 | Sanketh K T       | 1TU24CB041    |
 |HARSHITH GOWDA G S | 1TU24EC050.   |
 | Dharmik S Shetty  | 1TU24CS055    |
-
+| Fasiha B          | 1DA23EC041    |
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
