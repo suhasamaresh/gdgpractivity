@@ -40,7 +40,9 @@
 | Rohan G Figredo   | 1TU24CS156    |
 |V Monisha          |1DA23IS054     |
 | Dharmik S Shetty  | 1TU24CS055    |
+| Sai keerthan S    | 1TU24ET044    |
 | Abhishek Bharadwaj| 1DA23IS001    |
+
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
