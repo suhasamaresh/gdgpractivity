@@ -31,6 +31,7 @@
 | Safiya Samreen    | 1TU24CB038    |
 | Chaya             | 1TU24IS022    |
 | Sanketh K T       | 1TU24CB041    |
+|HARSHITH GOWDA G S | 1TU24EC050.   |
 | Dharmik S Shetty  | 1TU24CS055    |
 
 ### Instructions
