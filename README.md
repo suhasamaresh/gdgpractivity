@@ -62,6 +62,7 @@
 | Vinith Didgi | 1TU24IS405|
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
+|Anvitha M Nayak| 1DA23ET004 |
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
