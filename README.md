@@ -56,6 +56,7 @@
 | Abhishek M Shivanagoudar| 1TU24CS004|
 |Chengumani M R|1DA24CS405|
 |Yeshwanth V|1DA24CS418 |
+| Shivam Mahanteshayya Hiremath| 1TU24CS177|
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
