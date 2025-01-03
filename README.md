@@ -44,6 +44,7 @@
 | Vedashree V K     | 1DA23IS055    |
 | Sai keerthan S    | 1TU24ET044    |
 | Abhishek Bharadwaj| 1DA23IS001    |
+|Pallavi N|1TUCS119|
 
 
 ### Instructions
