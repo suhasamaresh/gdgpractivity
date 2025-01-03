@@ -53,6 +53,7 @@
 |Akshay R| 1TU24CS019 |
 |Disha.E.G | 1DA23EC038 |
 | Harsh Singh | 1DA23AI018 |
+|Prashant Kumar|1DA24CS409 |
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
