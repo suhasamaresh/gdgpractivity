@@ -59,6 +59,7 @@
 | Shivam Mahanteshayya Hiremath| 1TU24CS177|
 | Sanjana Yankanchi| 1DA23EC138|
 |Ritesh M H|1DA23IS037|
+| Vinith Didgi | 1TU24IS405|
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
