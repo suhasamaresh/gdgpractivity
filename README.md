@@ -48,6 +48,7 @@
 | Abhishek Bharadwaj| 1DA23IS001    |
 |Pallavi N|1TUCS119|
 | Bhawna DS | 1TU24IS017 |
+| Manish P|1DA23CS103|
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
