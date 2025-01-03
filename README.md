@@ -40,6 +40,7 @@
 | Rohan G Figredo   | 1TU24CS156    |
 |V Monisha          |1DA23IS054     |
 | Dharmik S Shetty  | 1TU24CS055    |
+| Naresh Choudhary  | 1TU24IS064    |
 | Pragya Pandey     | 1TU24CB028    |
 |Yashwanth H N| 1da23is062|
 | Subham Ghosh      | 1DA23IS048    |
