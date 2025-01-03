@@ -36,6 +36,7 @@
 | Dharmik S Shetty   | 1TU24CS055    |
 | Rajath H Kashyap   | 1DA23CS142    |
 | Fasiha B           | 1DA23EC041    |
+|Dharshan Kumar B|1DA23CS050|
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
