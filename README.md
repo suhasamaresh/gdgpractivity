@@ -49,6 +49,7 @@ q# GDGPR Activity
 | Abhishek Bharadwaj| 1DA23IS001    |
 |Pallavi N|1TUCS119|
 | Bhawna DS | 1TU24IS017 |
+Lekhana.M|1TU24IS048
 | Manish P|1DA23CS103|
 |Akshay R| 1TU24CS019 |
 |Disha.E.G | 1DA23EC038 |
