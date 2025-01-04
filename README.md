@@ -2,6 +2,7 @@
 
 ## Participants
 
+
 | Name               | USN           |
 |--------------------|---------------|
 | Shreepriya Tariwal | 1DA24EC141    |
@@ -62,7 +63,17 @@
 | Vinith Didgi | 1TU24IS405|
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
-| Chaitra R| 1TU24CS040
+| Chaitra R| 1TU24CS040 |
+|Lavanya s|1TU24IS047|
+|Fathina |1DA23ET041|
+| Manjesh ck | 1TU24IS402|
+|Mallikarjuna.C| 1DA23AI025|
+| M R Suhas | 1DA23EC084 |
+| Faiza Banu| 1TU24EC035|
+| Gagan nagathan |1DA23EI015 |
+| Meghana N| 1TU24CS097 |
+
+
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
 
