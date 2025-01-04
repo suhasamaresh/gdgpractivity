@@ -63,6 +63,8 @@
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
 |Mallikarjuna.C| 1DA23AI025|
+| M R Suhas | 1DA23EC084 |
+
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
 
