@@ -63,6 +63,7 @@
 | Vinith Didgi | 1TU24IS405|
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
+| Inchara JK| 1TU24CS075|
 | vivek v hegde | 1DA23IS060|
 | Namratha H L | 1TU24IS061 |
 |manasa R V| 1DA23EC079|
