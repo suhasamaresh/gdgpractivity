@@ -4,10 +4,9 @@ q# GDGPR Activity
 
 | Name               | USN           |
 |--------------------|---------------|
-| Shreepriya Tariwal | 1DA24EC141    |
-| Prajwal Salgar     | 1DA24EC100    |
 | Suhas A            | 1DA22CS165    |
 | Sujan P            | 1DA22CS167    |
+| Prajwal Salgar     | 1DA24EC100    |
 | Ramya S Gouda      | 1DA24EC116    |
 | Sharan Reddy M     | 1DA22CS145    |
 | Rajeshwari         | 1TU24EC112    |
