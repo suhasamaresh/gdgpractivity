@@ -63,6 +63,7 @@
 | Vinith Didgi | 1TU24IS405|
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
+|Amrutha Varshini K S| 1DA23EC010 |
 |Deeksha D| 1TU24IS026 |
 |Krupa B U| 1TU24CS085|
 | Kavya Moodi| 1DA23CS203|
