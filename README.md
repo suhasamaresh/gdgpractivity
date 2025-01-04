@@ -2,6 +2,7 @@
 
 ## Participants
 
+
 | Name               | USN           |
 |--------------------|---------------|
 | Shreepriya Tariwal | 1DA24EC141    |
@@ -63,6 +64,22 @@
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
 | Namratha H L | 1TU24IS061 |
+|manasa R V| 1DA23EC079|
+| vivek v hegde | 1DA23IS060|
+| Chaitra R| 1TU24CS040 |
+|Yallamma B|1DA23ET061|
+| Chaitra R| 1TU24CS040 |
+|Lavanya s|1TU24IS047|
+|Fathina |1DA23ET041|
+| Manjesh ck | 1TU24IS402|
+|Mallikarjuna.C| 1DA23AI025|
+| M R Suhas | 1DA23EC084 |
+| Faiza Banu| 1TU24EC035|
+| Gagan nagathan |1DA23EI015 |
+| Meghana N| 1TU24CS097 |
+| Keerthana nh| 1DA23CS209 |
+| Sanvi Y Gowda | 1TU24CS165 |
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
+Sinchana Narasimha Murthy|1TU24CS187
 
