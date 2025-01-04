@@ -63,6 +63,7 @@
 | Vinith Didgi | 1TU24IS405|
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
+|Vivek V Hegde | 1DA23IS060 |
 |Shankuntala m| 1DA23ET045|
 |Anvitha M Nayak| 1DA23ET004 |
 |Amrutha Varshini K S| 1DA23EC010 |
@@ -88,6 +89,7 @@
 | Keerthana nh| 1DA23CS209 |
 | Sanvi Y Gowda | 1TU24CS165 |
 | preethu D R | 1DA23ET039 |
+
 
 
 ### Instructions
