@@ -63,6 +63,7 @@
 | Vinith Didgi | 1TU24IS405|
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
+| vivek v hegde | 1DA23IS060|
 | Chaitra R| 1TU24CS040 |
 |Yallamma B|1DA23ET061|
 | Chaitra R| 1TU24CS040 |
