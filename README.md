@@ -63,6 +63,7 @@
 | Vinith Didgi | 1TU24IS405|
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
+|pallavi s| 1DA23CS088
 |Pallavi S| 1DA23CS118|
 |Dhaarini Vigneswaran | 1DA23CS212|
 |Varsha R |1DA24CS415|
