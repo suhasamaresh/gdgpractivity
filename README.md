@@ -86,6 +86,7 @@
 | Meghana N| 1TU24CS097 |
 | Keerthana nh| 1DA23CS209 |
 | Sanvi Y Gowda | 1TU24CS165 |
+| preethu D R | 1DA23ET039 |
 
 
 ### Instructions
