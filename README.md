@@ -99,6 +99,7 @@ q# GDGPR Activity
 | preethu D R | 1DA23ET039 |
 |Geethanjali K Y| 1TU24IS031|
 | Shreepriya--Tariwal | 1DA24EC141 |
+| Vijayalakshmi R  | 1TU24EC172 |
 
 
 ### Instructions
