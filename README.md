@@ -63,6 +63,7 @@
 | Vinith Didgi | 1TU24IS405|
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
+|Deeksha D| 1TU24IS026 |
 |Krupa B U| 1TU24CS085|
 | Kavya Moodi| 1DA23CS203|
 | Inchara JK| 1TU24CS075|
@@ -83,6 +84,7 @@
 | Meghana N| 1TU24CS097 |
 | Keerthana nh| 1DA23CS209 |
 | Sanvi Y Gowda | 1TU24CS165 |
+
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
