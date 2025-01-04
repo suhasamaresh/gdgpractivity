@@ -66,6 +66,7 @@
 |Mallikarjuna.C| 1DA23AI025|
 | M R Suhas | 1DA23EC084 |
 | Faiza Banu| 1TU24EC035|
+| Gagan nagathan |1DA23EI015 |
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
