@@ -2,7 +2,6 @@ q# GDGPR Activity
 
 ## Participants
 
-
 | Name               | USN           |
 |--------------------|---------------|
 | Shreepriya Tariwal | 1DA24EC141    |
@@ -100,6 +99,9 @@ q# GDGPR Activity
 | Sanvi Y Gowda | 1TU24CS165 |
 | preethu D R | 1DA23ET039 |
 |Geethanjali K Y| 1TU24IS031|
+| Shreepriya--Tariwal | 1DA24EC141 |
+
+
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
 Sinchana Narasimha Murthy|1TU24CS187
