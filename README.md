@@ -63,6 +63,7 @@
 | Vinith Didgi | 1TU24IS405|
 | Latha M| 1DA23CS088 |
 |Saheel P | 1DA23AI042 |
+| Chaitra R| 1TU24CS040 |
 |Lavanya s|1TU24IS047|
 |Fathina |1DA23ET041|
 | Manjesh ck | 1TU24IS402|
