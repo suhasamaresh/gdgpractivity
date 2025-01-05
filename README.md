@@ -100,6 +100,10 @@ q# GDGPR Activity
 |Geethanjali K Y| 1TU24IS031|
 | Shreepriya--Tariwal | 1DA24EC141 |
 | Vijayalakshmi R  | 1TU24EC172 |
+| Inchara CR | 1TU24CS074|
+| Shreepriya--Tariwal | 1DA24EC141|
+| basawaraj| |1DA23EC022|
+
 
 
 ### Instructions
