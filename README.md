@@ -102,11 +102,10 @@ q# GDGPR Activity
 | Vijayalakshmi R  | 1TU24EC172 |
 | Inchara CR | 1TU24CS074|
 | Shreepriya--Tariwal | 1DA24EC141|
-| basawaraj| |1DA23EC022|
-
-
+| basawaraj |1DA23EC022|
+|Sinchana Narasimha Murthy|1TU24CS187 |
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
-Sinchana Narasimha Murthy|1TU24CS187
+
 
