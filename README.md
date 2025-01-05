@@ -98,7 +98,9 @@ q# GDGPR Activity
 | Sanvi Y Gowda | 1TU24CS165 |
 | preethu D R | 1DA23ET039 |
 |Geethanjali K Y| 1TU24IS031|
-| Shreepriya--Tariwal | 1DA24EC141 | Inchara CR | 1TU24CS074|
+| Inchara CR | 1TU24CS074|
+| Shreepriya--Tariwal | 1DA24EC141|
+| basawaraj| |1DA23EC022|
 
 
 ### Instructions
