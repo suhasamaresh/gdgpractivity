@@ -101,7 +101,6 @@ q# GDGPR Activity
 | Shreepriya--Tariwal | 1DA24EC141 |
 | Vijayalakshmi R  | 1TU24EC172 |
 | Inchara CR | 1TU24CS074|
-| Shreepriya--Tariwal | 1DA24EC141|
 | basawaraj |1DA23EC022|
 |Sinchana Narasimha Murthy|1TU24CS187 |
 
